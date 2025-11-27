@@ -1,0 +1,9 @@
+# IDE dosyaları
+.vscode/
+.idea/
+
+# Sistem
+.DS_Store
+
+# Logs
+*.log
